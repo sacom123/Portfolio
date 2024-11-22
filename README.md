@@ -43,7 +43,7 @@ Unity와 Mirror를 활용해 PC 플랫폼을 대상으로 제작했으며, 액�
 
 ## 🎥 Gameplay Video  
 [![Tower: Hero's Journey](https://img.youtube.com/vi/eC9Pj--PPlM/0.jpg)](https://youtu.be/eC9Pj--PPlM)  
-> 위 이미지를 클릭하면 YouTube에서 플레이 영상을 볼 수 있습니다.
+> 위 이미지를 클릭하면 YouTube에서 티저 영상을 보실 수 있습니다.
 
 ---
 
