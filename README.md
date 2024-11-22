@@ -39,9 +39,13 @@ Unity와 Mirror를 활용해 PC 플랫폼을 대상으로 제작했으며, 액�
 
 ### 🖼️ Screenshot or Gameplay Preview  
 
+![KakaoTalk_20241009_163032000_01](https://github.com/user-attachments/assets/4ca50f1d-0a07-4634-944b-259266e4c278)
+
+## 🎥 Gameplay Video  
+[![Tower: Hero's Journey](https://img.youtube.com/vi/eC9Pj--PPlM/0.jpg)](https://youtu.be/eC9Pj--PPlM)  
+> 위 이미지를 클릭하면 YouTube에서 플레이 영상을 볼 수 있습니다.
 
 ---
 
 ## 📧 Contact  
-- **개발자 GitHub**: [링크 추가]  
-- **Email**: [이메일 주소 추가]
+- **Email**: [dfg0715@naver.com]
